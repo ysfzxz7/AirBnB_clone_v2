@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that connect me to web server 1.
+ssh -i ~/.ssh/school ubuntu@100.26.171.172
+clear
